@@ -1,9 +1,5 @@
 # Business Central for PHP
 
-License: MIT  
-This software is provided as is and without any warrenties of any kind.  
-If you find a bug or have a feature request, please create an [issue](https://github.com/CoolRunner-dk/business-central-php/issues)
-
 ## Install using Composer
 `composer require coolrunner/business-central-sdk`
 
